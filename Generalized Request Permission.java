@@ -1,7 +1,7 @@
     
     
     if(isPermissionGranted(Manifest.permission.READ_EXTERNAL_STORAGE, REQ_IMG_READ)){
-      //code
+      //already granted, do stuff
     }
     
     
