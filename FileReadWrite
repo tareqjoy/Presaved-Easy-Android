@@ -1,0 +1,4 @@
+ File fileToGet = context.getExternalFilesDir("file.csv");
+ 
+ 
+ // android/data/<package name>/files/
